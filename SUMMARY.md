@@ -3,7 +3,7 @@
 * [前言](README.md)
 
 ## 👩‍💻 软件与服务 <a href="#software" id="software"></a>
-* [🌟重要必读项](Appendix/zhongyao.md)
+
 * [🎬 Emby](software/emby/README.md)
   * [什么是Emby](software/emby/shi-mo-shi-emby.md)
   * [为什么要用Emby](software/emby/wei-shi-mo-yao-yong-emby.md)
@@ -17,12 +17,4 @@
   * [有没有免费软件](software/emby/you-mei-you-mian-fei-ruan-jian.md)
   * [服务器怎么登不上](software/emby/fu-wu-qi-zen-mo-deng-bu-shang.md)
   * [怎么少资源](software/emby/zen-mo-shao-zi-yuan.md)
-  * [安全问题](software/emby/safe?.md)
   * [为什么我在群里被警告了](software/emby/wei-shi-mo-wo-zai-qun-li-bei-jing-gao-le.md)
-## 附录与补遗
-* [进阶](Appendix/advance/main.md)
-  * [emby](Appendix/advance/emby.md)
-* [感谢列表](Appendix/thanks.md)
-* [参考文献](Appendix/Annotated_Bibliography/main.md)
-  * [提问的智慧](Appendix/Annotated_Bibliography/How-To-Ask-Questions-The-Smart-Way.md)
-* [官方地址](Appendix/links.md)
